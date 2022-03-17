@@ -41,7 +41,7 @@ $(function () {
             // remove if scroll = scrollTop
             $('.smart-scroll').removeClass('scrolling').removeClass('up');
         }
-
+              // 37 44 3a 63 3f 5a 5b 5j 58 51 50 53 51 4f 55 5f 4f 5c 5b 5j 51 5e 65
         scrollTop = scroll;
 
         // adjust scroll to top
